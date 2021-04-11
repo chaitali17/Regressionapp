@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="75798508-16c3-4655-962c-a36fff8d39f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/How to Run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/How to Run.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearRegressionApp.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +100,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="420" y="99" key="FileChooserDialogImpl" timestamp="1618142448217">
       <screen x="0" y="0" width="1280" height="688" />
@@ -102,5 +120,9 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1618142453259" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1618143930851">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1618143930851" />
   </component>
 </project>

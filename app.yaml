@@ -1,6 +1,6 @@
 runtime: python
 env: flex
-entrypoint: gunicorn -b: $PORT main:application
+entrypoint: gunicorn -b:$PORT main:application
 
 runtime_config:
   python version:3
